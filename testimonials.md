@@ -9,9 +9,10 @@ meta_description: The Description
 ---
 ##Checklist
 
-- [ ]
+- [ ] Display All testominials from \_testimonials collection type
 - [ ]
 
 ---
 
-## The Content
+- Intro Paragraph
+- Testominals from Collection here

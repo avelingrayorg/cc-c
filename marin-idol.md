@@ -14,4 +14,8 @@ meta_description: The Description
 
 ---
 
-## The Content
+- Testimonial
+- Photos
+- Description of Marin Idol Camp
+- Event Details
+- Link to Signup Form

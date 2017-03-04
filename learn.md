@@ -14,4 +14,6 @@ meta_description: The Description
 
 ---
 
-## The Content
+- Overview of Caylia's teaching methods (generic)
+- Talk to Parents and Teenagers
+- Navigation links to all the Lessons/Idol pages

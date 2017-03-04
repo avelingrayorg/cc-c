@@ -14,4 +14,9 @@ meta_description: The Description
 
 ---
 
-## The Content
+- Testimonial
+- Description of benefits of taking piano lessons
+- Photos
+- Videos of Kids/Caylia playing piano
+- Simply Music Information
+- Classes-groups and privates

@@ -14,4 +14,11 @@ meta_description: The Description
 
 ---
 
-## The Content
+- Testimonial
+- Performance Techniques
+- Vocal Coaching
+- Audition Prep
+- Performance and Business Consulting
+- Songwriting
+- Musical Theatre
+- Adult Singing Class
