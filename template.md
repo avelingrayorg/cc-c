@@ -19,6 +19,8 @@ featured_image: hero.jpg
 
 - [ ] Content Draft
 - [ ] Validate Links
+  - [ ] Sub Item
+  - [ ] Sub Item
 - [x] Etc
 
 ---
