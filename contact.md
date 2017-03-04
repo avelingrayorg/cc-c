@@ -7,14 +7,16 @@ meta_description: Contact Chaiken Music | Phone: 415 383 5395 | 775 E. Blithedal
 #user_needs: contact caylia
 #business_needs: display contact information
 ---
+
 ##Checklist
 
 - [ ] Copy Approved
 - [ ] Meta Description
 - [ ] Embed Appointments Widget?
+
 ---
 
-##!<Image Here>
+##Image Here
 
 The Chaiken Music Studio is conveniently located behind the Whole Foods Market on E. Blithedale Avenue in beautiful Mill Valley, California.
 
