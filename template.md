@@ -13,12 +13,12 @@ featured_image: hero.jpg
 ---
 ##TO DO
 
-_ [ ] Mercury
-_ [x] Venus
-_ [x] Earth (Orbit/Moon)
-_ [x] Mars
-_ [ ] Jupiter
-_ [ ] Saturn
-_ [ ] Uranus
-_ [ ] Neptune
-_ [ ] Comet Haley
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
