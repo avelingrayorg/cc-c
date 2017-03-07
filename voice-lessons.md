@@ -31,4 +31,11 @@ Singing is a natural extension of your speaking voice!  Learning to sing is very
 In group sessions
 students are encouraged to support and learn from their colleagues.  By observing someone else’s journey, you learn valuable skills of assessing another person’s vocal expertise, applying it to one’s own technique and “getting it” in a fun and supportive environment.  The group setting inspires quick learning and helpful guidance, along with invaluable qualities of empathy and encouragement.  
 
+THIS IS FROM THE ADULT SINGING CLASSES PAGE http://chaikenmusic.com/www.chaikenmusic.com/ADULT_CLASSES.html
+
+Even if you don't want to sing professionally, learning how to free your voice can have all kinds of benefits. It can help you deal with stage fright, save you from losing your voice when you speak a lot, improve the tone in your speaking and singing voice, and help you to communicate with confidence. 
+ 
+As a performer, Musical Director, Vocal and Acting Coach and Arranger for many Children's and Adult Musical Theater productions, I can help you learn to be more comfortable being in front of a group, performing on stage, conducting meetings or just meeting new people.
+
+Join the fun and sing with others, share your voices and learn to have fun playing as you learn life long skills in vocal production.
 -->
