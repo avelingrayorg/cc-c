@@ -14,33 +14,13 @@ meta_description: The Description
 
 ---
 
-- Tagline
-- Hero Image
-- Lead Paragraph
-- Free Intro Lesson
-- Voice Lessons
-  - Excerpt Description
-  - Link (Voice Page)
-  - Image
-  - Testimonial
-- Piano Lessons
-  - Excerpt Description
-  - Link (Piano Page)
-  - Image
-  - Testimonial
-- Performance Coaching Lessons
-  - Excerpt Description
-  - Link (Performance Coaching Page)
-  - Image
-  - Testimonial
-- Marin Idol
-  - Excerpt Description
-  - Link (Idol Page)
-  - Image
-  - Testimonial
-- Latest Blog Post
-- Newsletter Signup Form
-- Contact Information
+- Intro to Studio - segue to Caylia
+- Caylia Bio
+- Testimonial
+- Image of Studio
+- Image of Caylia
+- Contact CTA
+- Internal Links
 
 <!---
 The Caylia Chaiken Music Studio has a warm approach to teaching that is engaging and makes learning easy. Caylia shares her passion for music and helps guide her students in finding their own music inside themselves, giving them musical skills for life. Caylia uses a variety of piano teaching techniques, facilitating a learning experience from a diverse repertoire of popular, blues, and classical songs. From their first lesson, students will be able to sit down at the piano and play. Caylia’s voice coaching develops and opens the singer’s natural voice, as well as nurturing each student’s personal style.
