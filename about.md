@@ -22,6 +22,8 @@ meta_description: The Description
 - Contact CTA
 - Internal Links
 
+The Chaiken Music Studio is conveniently located behind the Whole Foods Market on E. Blithedale Avenue in beautiful Mill Valley, California.
+
 <!---
 The Caylia Chaiken Music Studio has a warm approach to teaching that is engaging and makes learning easy. Caylia shares her passion for music and helps guide her students in finding their own music inside themselves, giving them musical skills for life. Caylia uses a variety of piano teaching techniques, facilitating a learning experience from a diverse repertoire of popular, blues, and classical songs. From their first lesson, students will be able to sit down at the piano and play. Caylia’s voice coaching develops and opens the singer’s natural voice, as well as nurturing each student’s personal style.
 

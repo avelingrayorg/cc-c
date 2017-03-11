@@ -3,7 +3,7 @@
 meta_description: The Description
 
 ### context ###
-#targeted_keyphrases:
+#targeted_keyphrases: Mill Vallay, Music Lessons
 #user_needs:
 #business_needs:
 ---
@@ -14,6 +14,7 @@ meta_description: The Description
 
 ---
 
+- Signup for a Free Lesson Now [include]
 - Tagline
 - Hero Image
 - Lead Paragraph
@@ -41,6 +42,95 @@ meta_description: The Description
 - Latest Blog Post
 - Newsletter Signup Form
 - Contact Information
+
+##Tagline
+
+- **Find/Discover** your personal style and natural voice
+- **Reveal/Unleash** your personal style and natural voice
+- **Free** your personal style and natural voice
+- YOU can make amazing music
+- You are musical, let me show you how
+- Unlock YOUR
+- Express yourself yo!
+- Express yourself in music!
+- Expand, grow and surprise yourself!
+- Music for everyone
+- Everyone can make music
+- Everyone can make amazing music
+- Discover your musical self
+- Musical Skills for life
+- Find your personal style
+
+- You can actually have fun making music!
+- Music **can** be fun
+- Music lessons without the baggage.
+
+##Lead Paragraph
+
+1. Human connector
+2. Locational hook w Keywords
+3. Segue to Lesson excerpts
+
+- Individualism
+- CREATIVE and FUN
+- Creative Expression
+- Mill Valley Music Lessons
+- Piano
+- Singing
+- Performance Coaching
+- Immediately dissolve performance anxiety and connect to your brightest inner self.
+- Have fun learning and making music (learn/make).
+- Self expression.
+- The world is an amazing place.
+- Express your life force
+- Everybody has something to say in music.
+- Do you feel this moving inside you but you don't know how to let it out?
+- Are you shy to share your.
+- Become a better person.
+- Music makes you a better person.
+- Everybody has a personal style and natural voice.
+
+## Voice Lessons
+
+- Excerpt Description
+- Link
+- Image
+
+## Piano Lessons
+
+- Excerpt Description
+- Link
+- Image
+
+## Hero Testimonial
+
+## Performance Coaching
+
+- Excerpt Description
+- Link
+- Image
+
+## Marin Idol
+
+- Excerpt Description
+- Link
+- Image
+
+
+<!---
+
+##Who are you and what do you do?
+
+Thru teaching music and sharing my passion for music, I empower my students to expand and grow, learn how to navigate the world from a more centered and powerful space, and bring joy and happiness to their lives and the world by finding their music inside of themselves.
+
+##Why did you create your company?
+
+Because I deeply believe in the power of music.  I believe that music brings people together from every corner of the world, that music can heal you and is an acceptable way to express emotions.
+
+--->
+
+
+
 
 <!---
 The Caylia Chaiken Music Studio has a warm approach to teaching that is engaging and makes learning easy. Caylia shares her passion for music and helps guide her students in finding their own music inside themselves, giving them musical skills for life. Caylia uses a variety of piano teaching techniques, facilitating a learning experience from a diverse repertoire of popular, blues, and classical songs. From their first lesson, students will be able to sit down at the piano and play. Caylia’s voice coaching develops and opens the singer’s natural voice, as well as nurturing each student’s personal style.

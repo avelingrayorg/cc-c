@@ -1,9 +1,11 @@
 ---
 ### real front matter ###
 meta_description: The Description
+excerpt: 
 
 ### context ###
-#targeted_keyphrases:
+#targeted_keyphrases: Bay Area & Marin County Area
+#target_markets: ADULTS
 #user_needs:
 #business_needs:
 ---
