@@ -1,7 +1,7 @@
 ---
 ### real front matter ###
 meta_description: The Description
-excerpt: 
+excerpt:
 
 ### context ###
 #targeted_keyphrases: Bay Area & Marin County Area
@@ -24,3 +24,9 @@ excerpt:
 - Songwriting
 - Musical Theatre
 - Adult Singing Class
+- Answers to specific FAQs
+---
+
+## I don't want to learn singing but need help with public speaking
+
+## How can I speak to large groups without crumbling?

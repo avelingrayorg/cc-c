@@ -9,20 +9,46 @@ meta_description: The Description
 ---
 ##Checklist
 
-- [ ]
-- [ ]
+- [ ] Intro to Studio - segue to Caylia
+- [ ] Caylia Bio
+- [ ] Testimonial
+- [ ] Image of Studio
+- [ ] Image of Caylia
+- [ ] Contact CTA
 
 ---
 
-- Intro to Studio - segue to Caylia
-- Caylia Bio
-- Testimonial
-- Image of Studio
-- Image of Caylia
-- Contact CTA
-- Internal Links
+##Image of Studio
+
+##Intro
 
 The Chaiken Music Studio is conveniently located behind the Whole Foods Market on E. Blithedale Avenue in beautiful Mill Valley, California.
+
+Thru teaching music and sharing my passion for music, I empower my students to expand and grow, learn how to navigate the world from a more centered and powerful space, and bring joy and happiness to their lives and the world by finding their music inside of themselves.
+
+
+##A little bit about me...
+
+I have dedicated my life to
+
+Caylia Chaiken is a California State credentialed music teacher with a Bachelor of Arts in Music and a Masters in Education. She has taught general music and choral singing in both private and public schools, and has directed many musical theatre programs in the North Bay Area. In her studio, she teaches piano, singing, performance technique and songwriting.  Her varied teaching techniques help guide her students in discovering their own expressions and creativity through music.
+
+Caylia Chaiken is an accomplished professional pianist, singer, and songwriter who loves sharing the joys of learning music with her students of any age.
+
+##Am I musical?
+
+
+##Image of Caylia
+
+##Testimonial
+
+
+
+<!---
+Thru teaching music and sharing my passion for music, I empower my students to expand and grow, learn how to navigate the world from a more centered and powerful space, and bring joy and happiness to their lives and the world by finding their music inside of themselves.
+--->
+
+
 
 <!---
 The Caylia Chaiken Music Studio has a warm approach to teaching that is engaging and makes learning easy. Caylia shares her passion for music and helps guide her students in finding their own music inside themselves, giving them musical skills for life. Caylia uses a variety of piano teaching techniques, facilitating a learning experience from a diverse repertoire of popular, blues, and classical songs. From their first lesson, students will be able to sit down at the piano and play. Caylia’s voice coaching develops and opens the singer’s natural voice, as well as nurturing each student’s personal style.

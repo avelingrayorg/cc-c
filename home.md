@@ -50,6 +50,7 @@ meta_description: The Description
 - **Free** your personal style and natural voice
 - YOU can make amazing music
 - You are musical, let me show you how
+- Music is natural
 - Unlock YOUR
 - Express yourself yo!
 - Express yourself in music!

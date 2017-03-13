@@ -15,4 +15,13 @@ meta_description: The Description
 ---
 
 - Intro Paragraph
-- Testominals from Collection here
+- Testiminals from Collection here
+
+---
+
+
+
+I have helped to free
+
+
+Why not find out for yourself? If you are interested in Voice or Piano lessons I offer a free introductory lesson.
