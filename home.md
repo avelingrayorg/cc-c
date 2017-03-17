@@ -48,6 +48,7 @@ meta_description: The Description
 - **Find/Discover** your personal style and natural voice
 - **Reveal/Unleash** your personal style and natural voice
 - **Free** your personal style and natural voice
+- Music is Magic
 - YOU can make amazing music
 - You are musical, let me show you how
 - Music is natural
@@ -71,6 +72,27 @@ meta_description: The Description
 1. Human connector
 2. Locational hook w Keywords
 3. Segue to Lesson excerpts
+
+---
+
+## Why Music?
+
+Hans Christian Andersen could not have said it better when he penned these famous words:
+
+> Where words fail...**music speaks**
+
+Music is healing and transformative. It has the power to dissolve boundaries and bring people together from every corner of the world.
+
+They call it the universal language for a good reason and despite what you might think **it lives within us all**!
+
+## Why You?
+
+---
+
+> I’m thrilled you’re here—because we’re a lot alike, you and me. We’re both trying to make a life we love out of what we do.
+> Which means neither of us can avoid one dreaded concept… self-promotion. As a small business owner, I bet you know firsthand how stressful marketing yourself and your business can be.
+
+---
 
 - Individualism
 - CREATIVE and FUN
