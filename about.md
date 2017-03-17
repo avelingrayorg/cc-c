@@ -20,7 +20,13 @@ meta_description: The Description
 
 ##Image of Studio
 
-##Intro
+## The Magic of Music
+## Music is Magic
+## The Power of Music
+
+> I’m thrilled you’re here—because we’re a lot alike, you and me. We’re both trying to make a life we love out of what we do.
+
+> Which means neither of us can avoid one dreaded concept… self-promotion. As a small business owner, I bet you know firsthand how stressful marketing yourself and your business can be.
 
 The Chaiken Music Studio is conveniently located behind the Whole Foods Market on E. Blithedale Avenue in beautiful Mill Valley, California.
 
@@ -28,6 +34,10 @@ Thru teaching music and sharing my passion for music, I empower my students to e
 
 
 ##A little bit about me...
+
+I've gained a lot of experience and expertise in my life as a music teacher, but that doesn't mean I'm afraid of having fun. On the contrary...
+
+
 
 I have dedicated my life to
 

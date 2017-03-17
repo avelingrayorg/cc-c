@@ -9,13 +9,13 @@ meta_description: The Description
 ---
 ##Checklist
 
-- [ ] Display All testominials from \_testimonials collection type
+- [ ] Display All testimonials from \_testimonials collection type
 - [ ]
 
 ---
 
 - Intro Paragraph
-- Testiminals from Collection here
+- Testimonials from Collection here
 
 ---
 
