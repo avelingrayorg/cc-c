@@ -24,13 +24,11 @@ meta_description: The Description
 
 ##Testimonial
 
-Marin Idol was an extremely fun and interactive way to work on and hone my singing skills. It was all the fun of camp with the added bonus of learning proper vocal techniques that I still use to this day. I highly recommend this camp for budding, up-and-coming singers of all ages. - Eden, San Rafael
-
+Marin Idol was an extremely fun and interactive way to work on and hone my singing skills. It was all the fun of camp with the added bonus of learning proper vocal techniques that I still use to this day. I highly recommend this camp for singers of all ages. - Eden, San Rafael
 
 - Do you want to feel like a star and see your name in lights?
 
 
-- Want to see your name in lights?
 - Nothing beats the thrill of  being on stage and hearing the applause!
 - Have fun learning to Ace your Auditions and Overcome your fears!
 
@@ -65,7 +63,7 @@ Voice Technique; how to sing correctly
 Find your best vocal range
 Find the best songs that will feature your voice
 Arrange songs to maximize your singing talent
-Perforamance Techniques, microphone technique, star-quality
+Performance Techniques, microphone technique, star-quality
 Choreography and movement
 Acting and interpretation in your performance
 Professional clothing and styling: Dress the Part
