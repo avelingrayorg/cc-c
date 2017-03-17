@@ -22,6 +22,13 @@ meta_description: The Description
 - Classes-groups and privates
 - Answers to specific FAQs
 
+## Testimonial 1
+
+In one year my children have learned over fifty songs!
+
+Caylia expertly engages my daughters in specific, age-appropriate programs tailored to their interests and abilities. She tunes in to the comments my children make to enhance their understanding and appreciation of music.
+
+I am so thankful that we were referred to Caylia for our music instruction. - Jamie, Tiburon
 
 ## Can I learn the latest XXXX Song?
 Absolutely... blah blah

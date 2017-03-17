@@ -40,9 +40,9 @@ The Marin Idol summer camp is a music and performance experience of a lifetime.
 
 Marin Idol is the Bay Area's #1 summer camp experience in musical performance.
 
-##Testimonial
+##Testimonial 1
 
-Marin Idol was an extremely fun and interactive way to work on and hone my singing skills. It was all the fun of camp with the added bonus of learning proper vocal techniques that I still use to this day. I highly recommend this camp for singers of all ages. - Eden, San Rafael
+Marin Idol was an extremely fun and interactive way to improve my singing skills. It had all the fun of being at a summer camp with the added bonus of learning amazing vocal techniques that I still use to this day. I highly recommend Marin Idol for singers of all ages. - Eden, San Rafael
 
 ## You Will:
 

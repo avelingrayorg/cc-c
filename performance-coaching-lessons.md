@@ -26,6 +26,9 @@ excerpt:
 - Adult Singing Class
 - Answers to specific FAQs
 ---
+#Testimonial 1
+
+I sang out loud - and it was joyous and beautiful.  Honestly, I was shocked at how easy and natural it felt! Caylia - you made the difference. Thank you from the bottom of my heart. - Soleil, San Rafael
 
 ## I don't want to learn singing but need help with public speaking
 

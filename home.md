@@ -125,7 +125,7 @@ They call it the universal language for a good reason and despite what you might
 
 ## Hero Testimonial
 
-Caylia Chaiken is a miracle worker and master of her art. In one week she transformed my shy granddaughter into a confident and successful performer full of such joy after her faultless recital performance. - Sharon G (Grandparent)
+Creative expression is something we all need and Caylia Chaiken is a master of her art. Her music lessons provide not only the spark but the instruction to enhance your experience and enjoyment of music. Sign up now. You won't be sorry. - Sharon G
 
 <!-- [ALT TESTIMONIAL] Caylia's heart is in her music and with her students. Our daughter has her voice because of Caylia! -->
 
