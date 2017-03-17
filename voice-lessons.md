@@ -27,6 +27,26 @@ meta_description: The Description
 
 ##The Nitty Gritty..
 
+##Did you know....
+Frank Sinatra blah
+By using your diaphragm in such a way .. blah
+Boyle lady from UK's got talent...
+Next time you are talking to someone...
+
+http://www.lionsvoiceclinic.umn.edu/page2.htm
+
+> Here's something you probably never thought of…
+
+> Your larynx is called your voice box, but phonation (production of vocal sound) isn't the primary biological purpose of the larynx.
+
+> The most important thing your larynx does is . . .
+protect your lungs from food and water. The vocal folds form a valve that closes tightly to protect the airway. When you swallow, the glottis closes tightly --that is, the vocal folds adduct (come together) tightly. Also, the epiglottis folds over the glottis, and the larynx rises up while the esophagus opens to let the food/water enter. You've probably gotten water "down the wrong pipe" sometime in your life. That's because the water went down too fast for the glottis and epiglottis to protect the airway. When the water hit the vocal folds, they went into a cough reflex to expel the water and keep it out of the lungs. (Food or water in your lungs is a very bad thing.)
+
+> The second most important thing your larynx does is . . .
+trap air inside your lungs. This provides what we call "thoracic fixation," also known as the Valsalva maneuver. That is, trapping air inside the lungs provides air pressure, against which you push for excretion and childbirth, or stabilization for lifting.
+
+> We share these laryngeal attributes with air-breathing animals. The fact that our larynx can also make beautiful sounds is one of our very special human attributes.
+>
 <!---
 
 VOICE STUDENTS
