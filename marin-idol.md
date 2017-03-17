@@ -22,6 +22,10 @@ meta_description: The Description
 
 ---
 
+##Testimonial
+
+Marin Idol was an extremely fun and interactive way to work on and hone my singing skills. It was all the fun of camp with the added bonus of learning proper vocal techniques that I still use to this day. I highly recommend this camp for budding, up-and-coming singers of all ages. - Eden, San Rafael
+
 
 - Do you want to feel like a star and see your name in lights?
 

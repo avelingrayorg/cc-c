@@ -24,6 +24,9 @@ meta_description: The Description
 
 ---
 
+##Testimonial
+
+I came to Caylia after years of vocal training. Caylia was a dream. She helped me retrain my voice so that I sang in an organic way, allowing my body to simply click into place. I learned how to protect my voice. I am thrilled to learn from her. - Emily , Kentfield
 
 ##The Nitty Gritty..
 

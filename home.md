@@ -7,13 +7,8 @@ meta_description: The Description
 #user_needs:
 #business_needs:
 ---
-##Checklist
 
-- [ ]
-- [ ]
-
----
-
+<!-- MAP
 - Signup for a Free Lesson Now [include]
 - Tagline
 - Hero Image
@@ -41,11 +36,13 @@ meta_description: The Description
   - Testimonial
 - Latest Blog Post
 - Newsletter Signup Form
-- Contact Information
+- Contact Information -->
 
 ##Tagline
 
-- **Find/Discover** your personal style and natural voice
+Music is _**Magic**_
+
+<!-- - **Find/Discover** your personal style and natural voice
 - **Reveal/Unleash** your personal style and natural voice
 - **Free** your personal style and natural voice
 - Music is Magic
@@ -62,10 +59,11 @@ meta_description: The Description
 - Discover your musical self
 - Musical Skills for life
 - Find your personal style
-
 - You can actually have fun making music!
 - Music **can** be fun
 - Music lessons without the baggage.
+-->
+
 
 ##Lead Paragraph
 
@@ -126,6 +124,10 @@ They call it the universal language for a good reason and despite what you might
 - Image
 
 ## Hero Testimonial
+
+Caylia Chaiken is a miracle worker and master of her art. In one week she transformed my shy granddaughter into a confident and successful performer full of such joy after her faultless recital performance. - Sharon G (Grandparent)
+
+<!-- [ALT TESTIMONIAL] Caylia's heart is in her music and with her students. Our daughter has her voice because of Caylia! -->
 
 ## Performance Coaching
 
