@@ -13,15 +13,15 @@ meta_description: The Description
 
 ---
 
-Thanks for reaching out!
+I'm so jazzed that you've dropped by!
 
-I'm so jazzed that you took the time to connect. I appreciate that you live a busy North Bay life and have a **lot** of choices when it comes to music lessons in Marin County. I humbly hope that once you've read all the nitty gritty details you'll feel compelled to try me out with a [free lesson](#).
+I know that you're super busy and have a **lot** of choices when it comes to music lessons in Marin County. I hope that once you've read all the nitty gritty below you'll feel compelled to try me out with a [free lesson](#).
 
 ##What kind of a Music Teacher am I?
 
-My #1 job is to empower **your** creative development and self expression in music. I bring a warm and lighthearted approach to teaching that is fun, engaging AND makes the learning part _easy_.
+My #1 job is to empower **your** creative development and self expression in music. I bring a warm and lighthearted approach to teaching that is fun and engaging AND makes the learning part _easy_.
 
-I'm not the kind of teacher who will drown you in endless scales or obsess over theory like a robot. While scales and theory do have a place they should never block your ability to connect to the _**magic**_ that is music.
+We won't drown in endless scales or obsess over theory. While the technical details do have a place they should never block your ability to connect to the _**magic**_ that is music.
 
 In my lessons I will help you connect to your musical potential that lives within. I'll also give you the skills to access it for life. When you can free the songs in your heart you will navigate life from a place of inner power and bring joy to not only yourself but those around you. **Music is the universal language and I know you've got something to say**. If you don't believe in the power of music watch this:
 
