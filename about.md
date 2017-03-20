@@ -23,10 +23,9 @@ My #1 job is to empower **your** creative development and self expression in mus
 
 I'm not the kind of teacher who will drown you in endless scales or obsess over theory like a robot. While scales and theory do have a place they should never block your ability to connect to the _**magic**_ that is music.
 
-In my lessons I will help you connect to the musical potential that lives inside all of us. I'll also give you the skills to access it for life. When you can free the songs in your heart you will navigate life from a place of inner power and bring joy to not only yourself, but those around you. **Music is the universal language and I know you've got something to say**. If you don't believe in the power of music watch this:
+In my lessons I will help you connect to your musical potential that lives within. I'll also give you the skills to access it for life. When you can free the songs in your heart you will navigate life from a place of inner power and bring joy to not only yourself but those around you. **Music is the universal language and I know you've got something to say**. If you don't believe in the power of music watch this:
 
 <iframe src="https://player.vimeo.com/video/9761188?color=ff9933&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 ## A Marin County Local
 
@@ -34,9 +33,13 @@ In my lessons I will help you connect to the musical potential that lives inside
 
 I've been living and teaching music in Mill Valley (or Marin County) for over 15 years. I've been in love with it's natural beauty all this time and feel blessed to be a part of such a vibrant and progressive community. I never cease to be blown away by the innovative minds of all ages that live here.
 
+I frequently take my teaching outside of the studio and have taught music and choral singing at numerous public and private  schools in Marin County including Edna Maguire, Middle School, Old Mill, Park School, Strawberry Point, Tam Valley, Brandeis Marin, Marin Primary & Middle School.
+
     {Testimonial}
 
     I realized just how special Caylia is after my daughter took an entire year of lessons and we were at her annual recital. It was full of supporting families and gosh, over 30 kids. They each went up and played a little song. It was a while before it suddenly dawned on me that **Caylia had single handedly taught every single one these kids everything that I was hearing that day!**  She truly is an amazing gift to our community and my children. - Wendy
+
+I've also been fortunate to have directed many wonderful musical theatre programs in the North Bay Area.
 
 ## But what about those credentials...
 
@@ -45,6 +48,7 @@ Truth be told, I've got a lot of music teaching credentials under my belt. If yo
 As a **musician and performer** I have a Bachelor of Arts from the [San Francisco Conservatory of Music](https://sfcm.edu/) and specialized in Voice and Piano. I also received a Bachelor of Fine Arts for Music and Musical Theater from [San Francisco State University](http://music.sfsu.edu/).
 
 As an **educator** I hold a Masters of Education from Marin County's own [Dominican University of California](http://www.dominican.edu/) and am fully credentialed to teach music in the State of California.
+
 
 ##Am I a practicing musician?
 
