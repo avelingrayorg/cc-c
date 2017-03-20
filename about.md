@@ -53,24 +53,13 @@ As an **educator** I hold a Masters of Education from Marin County's own [Domini
 
 YES!
 
-I wouldn't be able to bring so much passion to teaching without my own dedicated practice. It would be nothing without the buzz that I get from connecting to my inner source.
+I wouldn't be able to bring so much passion to teaching without the nourishment of my own dedicated practice.
 
-The thrill that I get from performing to audiences enables me to
+I am a professional pianist, singer and songwriter and have performed across the USA. You can listen to my work in [the store](#) and on my [YouTube channel](#). If you want to see me perform be sure to [follow me on Facebook](#) for the latest event news.
 
-thrill I get is what I want to share with my students.
-
-This is what motivates me as an educator...
-
- constantly connecting to music.
-
-tapping into the source myself.
-
-My passion for teaching would be nothing without doing it myself.
-
-I am a professional pianist, singer and songwriter and have performed across the USA. If you want to listen to some of my works then checkout [the store](#) and my [youtube channel](#). If you want to see me perform at an upcoming event be sure to [follow me on Facebook](#) for the latest event news.
-
-##Still confused? On the fence?
-
+##So... How about it?
+##Ready to dive in?
+##Ready to give it a try?
 Then why not have a dabble and try a [free lesson](#). What have you got to lose?
 
 If you're feeling shy right now that's AOK. Why not [get in touch ](#)  and I'll be sure to answer any other questions you might have.
