@@ -26,11 +26,24 @@ meta_description: The Description
 
 Thanks for reaching out!
 
-> I’m thrilled you’re here—because we’re a lot alike, you and me. We’re both trying to make a life we love out of what we do.
+I'm so jazzed that you took the time to connect. I appreciate that you live a busy North Bay life and have a **lot** of choices when it comes to music lessons in Marin County. I humbly hope that once you've read all the nitty gritty below you'll feel compelled to audition my skills in the form of a [free lesson](#).
 
-> Which means neither of us can avoid one dreaded concept… self-promotion. As a small business owner, I bet you know firsthand how stressful marketing yourself and your business can be.
 
-<!-- The Chaiken Music Studio is conveniently located behind the Whole Foods Market on E. Blithedale Avenue in beautiful Mill Valley, California. -->
+about why I believe Chaiken Music is the best place for Music Lessons in Marin County you'll be compelled to find out for yourself bu
+
+ a free
+
+
+I have to offer  this you'll be compelled to try a free lesson
+
+
+to persuade you that I'm the right teacher for you.
+
+
+
+<!-- The Caylia Chaiken Music Studio has a warm approach to teaching that is engaging and makes learning easy. Caylia shares her passion for music and helps guide her students in finding their own music inside themselves, giving them musical skills for life. Caylia uses a variety of piano teaching techniques, facilitating a learning experience from a diverse repertoire of popular, blues, and classical songs. From their first lesson, students will be able to sit down at the piano and play. Caylia’s voice coaching develops and opens the singer’s natural voice, as well as nurturing each student’s personal style. -->
+
+-
 
 ##Marin Local
 
@@ -41,13 +54,17 @@ I'm so local I remember seeing XXX screening at the Fairfax Theater.
 I'm more local than the Mill Valley Burger joint.
 
 
-##My passion for music
+##What kind of a Music Teacher am I?
 
-I've got my fair share of music teaching experiences under my belt but I'm not the kind of teacher who will drown you in endless scales or obsess over theory. I definitely don't mind saying that scales and theory are important pieces of the musical puzzle but they should _**never**_ get in the way of the _**magic**_ - that is music.
+My #1 job is to empower **your** creative development and self expression in music.
 
-My passion lies in empowering **your** creative development and self expression.
+I've got a lot of music teaching experience under my belt but I'm not the kind of teacher who will drown you in endless scales or obsess over theory. I can tell you right now that scales and theory are important pieces of the musical puzzle but they should _**never**_ get in the way of the _**magic**_ - that is music.
 
-I'm here to support and encourage you.
+I'm here to support and encourage you
+
+
+I will help you unearth your creativity to bring joy and happiness
+
 
 
 Thru teaching music and sharing my passion for music, I empower my students to expand and grow, learn how to navigate the world from a more centered and powerful space, and bring joy and happiness to their lives and the world by finding their music inside of themselves.
