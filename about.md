@@ -21,9 +21,9 @@ I know that you're super busy and have a **lot** of choices when it comes to mus
 
 My #1 job is to empower **your** creative development and self expression in music. I bring a warm and lighthearted approach to teaching that is fun and engaging AND makes the learning part _easy_.
 
-We won't drown in endless scales or obsess over theory. While the technical details do have a place they should never block your ability to connect to the _**magic**_ that is music.
+We won't drown in endless scales or obsess over theory. They should never block your ability to connect to the **magic** of music.
 
-In my lessons I will help you connect to your musical potential that lives within. I'll also give you the skills to access it for life. When you can free the songs in your heart you will navigate life from a place of inner power and bring joy to not only yourself but those around you. **Music is the universal language and I know you've got something to say**. If you don't believe in the power of music watch this:
+My lessons will connect you to your innate musical talents and give you the skills to express them forever. You'll find the confidence to free the songs in your heart, bringing joy to yourself and those around you. **Music is the universal language and I know you've got something to say**. If you don't believe in the power of music watch this:
 
 <iframe src="https://player.vimeo.com/video/9761188?color=ff9933&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -31,30 +31,43 @@ In my lessons I will help you connect to your musical potential that lives withi
 
 {Image of Studio} (Caption: The Chaiken Music Studio nestled amongst the greenery in Mill Valley)
 
-I've been living and teaching music in Mill Valley (or Marin County) for over 15 years. I've been in love with it's natural beauty all this time and feel blessed to be a part of such a vibrant and progressive community. I never cease to be blown away by the innovative minds of all ages that live here.
+I've been living and teaching music in Mill Valley for over 15 years. I'm in awe of its natural beauty and feel blessed to be part of such a vibrant and progressive community. So many creative and innovative people!
 
-I frequently take my teaching outside of the studio and have taught music and choral singing at numerous public and private  schools in Marin County including Edna Maguire, Middle School, Old Mill, Park School, Strawberry Point, Tam Valley, Brandeis Marin, Marin Primary & Middle School.
+Many Marin County Schools have hosted my classes and workshops. We've had a blast learning music and choral singing at Edna Maguire, Middle School, Old Mill, Park School, Strawberry Point, Tam Valley, Brandeis Marin, Marin Primary & Middle School.
 
     {Testimonial}
 
-    I realized just how special Caylia is after my daughter took an entire year of lessons and we were at her annual recital. It was full of supporting families and gosh, over 30 kids. They each went up and played a little song. It was a while before it suddenly dawned on me that **Caylia had single handedly taught every single one these kids everything that I was hearing that day!**  She truly is an amazing gift to our community and my children. - Wendy
+    I realized just how special Caylia is after my daughter took an entire year of lessons and we were at her annual recital. It was full of supporting families and gosh, over 30 kids. They each went up and played a little song. It was a while before it suddenly dawned on me that **Caylia had single handedly taught every single one these kids everything that I was hearing that day!** She truly is an amazing gift to our community and my children. - Wendy
 
 I've also been fortunate to have directed many wonderful musical theatre programs in the North Bay Area.
 
-## But what about those credentials...
+## Check out these credentials...
 
-Truth be told, I've got a lot of music teaching credentials under my belt. If you're a stickler for qualifications (like me) then here they are:
+Truth be told, I've had a lot of excellent training. If you're a stickler for qualifications (like me) then here they are:
 
-As a **musician and performer** I have a Bachelor of Arts from the [San Francisco Conservatory of Music](https://sfcm.edu/) and specialized in Voice and Piano. I also received a Bachelor of Fine Arts for Music and Musical Theater from [San Francisco State University](http://music.sfsu.edu/).
+As a **musician and performer** I trained in voice and piano at the [San Francisco Conservatory of Music](https://sfcm.edu/) and was awarded Bachelor of Fine Arts for Music and Musical Theater from [San Francisco State University](http://music.sfsu.edu/).
 
-As an **educator** I hold a Masters of Education from Marin County's own [Dominican University of California](http://www.dominican.edu/) and am fully credentialed to teach music in the State of California.
-
+As an **educator** I hold a Masters of Education from Marin County's own [Dominican University](http://www.dominican.edu/) and am fully credentialed to teach music in the State of California.
 
 ##Am I a practicing musician?
 
-The answer is unequivocally YES!
+YES!
 
-I would not be able to bring my passion for teaching without tapping into the source myself. I am a professional pianist, singer and songwriter and have performed across the USA. If you want to listen to some of my works then checkout [the store](#) and my [youtube channel](#). If you want to see me perform at an upcoming event be sure to [follow me on Facebook](#) for the latest event news.
+I wouldn't be able to bring so much passion to teaching without my own dedicated practice. It would be nothing without the buzz that I get from connecting to my inner source.
+
+The thrill that I get from performing to audiences enables me to
+
+thrill I get is what I want to share with my students.
+
+This is what motivates me as an educator...
+
+ constantly connecting to music.
+
+tapping into the source myself.
+
+My passion for teaching would be nothing without doing it myself.
+
+I am a professional pianist, singer and songwriter and have performed across the USA. If you want to listen to some of my works then checkout [the store](#) and my [youtube channel](#). If you want to see me perform at an upcoming event be sure to [follow me on Facebook](#) for the latest event news.
 
 ##Still confused? On the fence?
 
