@@ -58,7 +58,9 @@ I would not be able to bring my passion for teaching without tapping into the so
 
 ##Still confused? On the fence?
 
-Then why not have a dabble and try a [free lesson](#). If you're feeling shy right now then [reach out some other way](#) and I'll be sure to answer any other questions you might have.
+Then why not have a dabble and try a [free lesson](#). What have you got to lose?
+
+If you're feeling shy right now that's AOK. Why not [get in touch ](#)  and I'll be sure to answer any other questions you might have.
 
 {contact form?}
 
