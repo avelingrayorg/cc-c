@@ -25,21 +25,19 @@ meta_description: The Description
 ---
 
 ##Testimonial 1
+
 I came to Caylia after years of vocal training. She is  a dream. With her guidance I was able to retrain my voice so that I sang in an organic way, allowing my body to simply click into place. I am thrilled to be learning from her. - Emily , Kentfield
 
 ##The Nitty Gritty..
 
-##Did you know....
-Frank Sinatra blah
-By using your diaphragm in such a way .. blah
-Boyle lady from UK's got talent...
-Next time you are talking to someone...
+##Did you know...
 
-http://www.lionsvoiceclinic.umn.edu/page2.htm
+That your voice box (a.k.a larynx) is not just used for making sweet sounds. It's main purpose is to protect your lungs from receiving food and water!
 
-> Here's something you probably never thought of…
+Everytime you swallow the folds (or chords) of your voice box tightly close into a locked valve to protect the airway from everything but air.
 
-> Your larynx is called your voice box, but phonation (production of vocal sound) isn't the primary biological purpose of the larynx.
+When you sing you are slowly....blah
+
 
 > The most important thing your larynx does is . . .
 protect your lungs from food and water. The vocal folds form a valve that closes tightly to protect the airway. When you swallow, the glottis closes tightly --that is, the vocal folds adduct (come together) tightly. Also, the epiglottis folds over the glottis, and the larynx rises up while the esophagus opens to let the food/water enter. You've probably gotten water "down the wrong pipe" sometime in your life. That's because the water went down too fast for the glottis and epiglottis to protect the airway. When the water hit the vocal folds, they went into a cough reflex to expel the water and keep it out of the lungs. (Food or water in your lungs is a very bad thing.)

@@ -24,22 +24,44 @@ meta_description: The Description
 ## Music is Magic
 ## The Power of Music
 
+Thanks for reaching out!
+
 > I’m thrilled you’re here—because we’re a lot alike, you and me. We’re both trying to make a life we love out of what we do.
 
 > Which means neither of us can avoid one dreaded concept… self-promotion. As a small business owner, I bet you know firsthand how stressful marketing yourself and your business can be.
 
-The Chaiken Music Studio is conveniently located behind the Whole Foods Market on E. Blithedale Avenue in beautiful Mill Valley, California.
+<!-- The Chaiken Music Studio is conveniently located behind the Whole Foods Market on E. Blithedale Avenue in beautiful Mill Valley, California. -->
+
+##Marin Local
+
+I don't mind saying it -
+
+I'm so local I remember seeing XXX screening at the Fairfax Theater.
+
+I'm more local than the Mill Valley Burger joint.
+
+
+##My passion for music
+
+I've got my fair share of music teaching experiences under my belt but I'm not the kind of teacher who will drown you in endless scales or obsess over theory. I definitely don't mind saying that scales and theory are important pieces of the musical puzzle but they should _**never**_ get in the way of the _**magic**_ - that is music.
+
+My passion lies in empowering **your** creative development and self expression.
+
+I'm here to support and encourage you.
+
 
 Thru teaching music and sharing my passion for music, I empower my students to expand and grow, learn how to navigate the world from a more centered and powerful space, and bring joy and happiness to their lives and the world by finding their music inside of themselves.
 
-
-##A little bit about me...
-
-I've gained a lot of experience and expertise in my life as a music teacher, but that doesn't mean I'm afraid of having fun. On the contrary...
+them you learn how to navigate their world from a centered and powerful space and bring joy and happiness to their lives and the world around them by uncovering the magical songs that live inside them.
 
 
 
-I have dedicated my life to
+
+
+
+## A bit about my background
+
+It may sound s little cocky but I have dedicated my life to music.
 
 Caylia Chaiken is a California State credentialed music teacher with a Bachelor of Arts in Music and a Masters in Education. She has taught general music and choral singing in both private and public schools, and has directed many musical theatre programs in the North Bay Area. In her studio, she teaches piano, singing, performance technique and songwriting.  Her varied teaching techniques help guide her students in discovering their own expressions and creativity through music.
 
@@ -51,6 +73,8 @@ Caylia Chaiken is an accomplished professional pianist, singer, and songwriter w
 ##Image of Caylia
 
 ##Testimonial
+
+I realized just how special Caylia is after my daughter took an entire year of lessons and we were at her annual recital. It was full of supporting families and gosh, over 30 kids. They each went up and played a little song. It was a while before it suddenly dawned on me that **Caylia had single handedly taught every single one these kids everything that I was hearing that day!**  She truly is an amazing gift to our community and my children. - Wendy
 
 
 

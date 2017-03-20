@@ -61,6 +61,11 @@ Marin Idol was an extremely fun and interactive way to improve my singing skills
 
 Once you arrive at Casa del Lago to check in you’ll receive your room assignment, credentials and camp schedule. A schedule will be sent out prior to arriving to camp, but a final schedule will come at registration. -->
 
+###Images
+- Photo of singer on stage going for it.
+- Group shots.
+- Audience POV shot .
+- Behind performer with POV to audience.
 
 
 <!---
