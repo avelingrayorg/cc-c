@@ -9,91 +9,58 @@ meta_description: The Description
 ---
 ##Checklist
 
-- [ ] Intro to Studio - segue to Caylia
-- [ ] Caylia Bio
-- [ ] Testimonial
-- [ ] Image of Studio
-- [ ] Image of Caylia
 - [ ] Contact CTA
 
 ---
 
-##Image of Studio
-
-## The Magic of Music
-## Music is Magic
-## The Power of Music
-
 Thanks for reaching out!
 
-I'm so jazzed that you took the time to connect. I appreciate that you live a busy North Bay life and have a **lot** of choices when it comes to music lessons in Marin County. I humbly hope that once you've read all the nitty gritty below you'll feel compelled to audition my skills in the form of a [free lesson](#).
-
-
-about why I believe Chaiken Music is the best place for Music Lessons in Marin County you'll be compelled to find out for yourself bu
-
- a free
-
-
-I have to offer  this you'll be compelled to try a free lesson
-
-
-to persuade you that I'm the right teacher for you.
-
-
-
-<!-- The Caylia Chaiken Music Studio has a warm approach to teaching that is engaging and makes learning easy. Caylia shares her passion for music and helps guide her students in finding their own music inside themselves, giving them musical skills for life. Caylia uses a variety of piano teaching techniques, facilitating a learning experience from a diverse repertoire of popular, blues, and classical songs. From their first lesson, students will be able to sit down at the piano and play. Caylia’s voice coaching develops and opens the singer’s natural voice, as well as nurturing each student’s personal style. -->
-
--
-
-##Marin Local
-
-I don't mind saying it -
-
-I'm so local I remember seeing XXX screening at the Fairfax Theater.
-
-I'm more local than the Mill Valley Burger joint.
-
+I'm so jazzed that you took the time to connect. I appreciate that you live a busy North Bay life and have a **lot** of choices when it comes to music lessons in Marin County. I humbly hope that once you've read all the nitty gritty details you'll feel compelled to try me out with a [free lesson](#).
 
 ##What kind of a Music Teacher am I?
 
-My #1 job is to empower **your** creative development and self expression in music.
+My #1 job is to empower **your** creative development and self expression in music. I bring a warm and lighthearted approach to teaching that is fun, engaging AND makes the learning part _easy_.
 
-I've got a lot of music teaching experience under my belt but I'm not the kind of teacher who will drown you in endless scales or obsess over theory. I can tell you right now that scales and theory are important pieces of the musical puzzle but they should _**never**_ get in the way of the _**magic**_ - that is music.
+I'm not the kind of teacher who will drown you in endless scales or obsess over theory like a robot. While scales and theory do have a place they should never block your ability to connect to the _**magic**_ that is music.
 
-I'm here to support and encourage you
+In my lessons I will help you connect to the musical potential that lives inside all of us. I'll also give you the skills to access it for life. When you can free the songs in your heart you will navigate life from a place of inner power and bring joy to not only yourself, but those around you. **Music is the universal language and I know you've got something to say**. If you don't believe in the power of music watch this:
 
-
-I will help you unearth your creativity to bring joy and happiness
-
+<iframe src="https://player.vimeo.com/video/9761188?color=ff9933&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-Thru teaching music and sharing my passion for music, I empower my students to expand and grow, learn how to navigate the world from a more centered and powerful space, and bring joy and happiness to their lives and the world by finding their music inside of themselves.
+## A Marin County Local
 
-them you learn how to navigate their world from a centered and powerful space and bring joy and happiness to their lives and the world around them by uncovering the magical songs that live inside them.
+{Image of Studio} (Caption: The Chaiken Music Studio nestled amongst the greenery in Mill Valley)
 
+I've been living and teaching music in Mill Valley (or Marin County) for over 15 years. I've been in love with it's natural beauty all this time and feel blessed to be a part of such a vibrant and progressive community. I never cease to be blown away by the innovative minds of all ages that live here.
 
+    {Testimonial}
 
+    I realized just how special Caylia is after my daughter took an entire year of lessons and we were at her annual recital. It was full of supporting families and gosh, over 30 kids. They each went up and played a little song. It was a while before it suddenly dawned on me that **Caylia had single handedly taught every single one these kids everything that I was hearing that day!**  She truly is an amazing gift to our community and my children. - Wendy
 
+## But what about those credentials...
 
+Truth be told, I've got a lot of music teaching credentials under my belt. If you're a stickler for qualifications (like me) then here they are:
 
-## A bit about my background
+As a **musician and performer** I have a Bachelor of Arts from the [San Francisco Conservatory of Music](https://sfcm.edu/) and specialized in Voice and Piano. I also received a Bachelor of Fine Arts for Music and Musical Theater from [San Francisco State University](http://music.sfsu.edu/).
 
-It may sound s little cocky but I have dedicated my life to music.
+As an **educator** I hold a Masters of Education from Marin County's own [Dominican University of California](http://www.dominican.edu/) and am fully credentialed to teach music in the State of California.
 
-Caylia Chaiken is a California State credentialed music teacher with a Bachelor of Arts in Music and a Masters in Education. She has taught general music and choral singing in both private and public schools, and has directed many musical theatre programs in the North Bay Area. In her studio, she teaches piano, singing, performance technique and songwriting.  Her varied teaching techniques help guide her students in discovering their own expressions and creativity through music.
+##Am I a practicing musician?
 
-Caylia Chaiken is an accomplished professional pianist, singer, and songwriter who loves sharing the joys of learning music with her students of any age.
+The answer is unequivocally YES!
 
-##Am I musical?
+I would not be able to bring my passion for teaching without tapping into the source myself. I am a professional pianist, singer and songwriter and have performed across the USA. If you want to listen to some of my works then checkout [the store](#) and my [youtube channel](#). If you want to see me perform at an upcoming event be sure to [follow me on Facebook](#) for the latest event news.
 
+##Still confused? On the fence?
 
-##Image of Caylia
+Then why not have a dabble and try a [free lesson](#). If you're feeling shy right now then [reach out some other way](#) and I'll be sure to answer any other questions you might have.
 
-##Testimonial
+{contact form?}
 
-I realized just how special Caylia is after my daughter took an entire year of lessons and we were at her annual recital. It was full of supporting families and gosh, over 30 kids. They each went up and played a little song. It was a while before it suddenly dawned on me that **Caylia had single handedly taught every single one these kids everything that I was hearing that day!**  She truly is an amazing gift to our community and my children. - Wendy
-
-
+---
+---
+---
 
 <!---
 Thru teaching music and sharing my passion for music, I empower my students to expand and grow, learn how to navigate the world from a more centered and powerful space, and bring joy and happiness to their lives and the world by finding their music inside of themselves.
