@@ -8,61 +8,69 @@ meta_description: The Description
 #business_needs:
 ---
 
-<!-- MAP
-- Signup for a Free Lesson Now [include]
-- Tagline
-- Hero Image
-- Lead Paragraph
-- Free Intro Lesson
-- Voice Lessons
-  - Excerpt Description
-  - Link (Voice Page)
-  - Image
-  - Testimonial
-- Piano Lessons
-  - Excerpt Description
-  - Link (Piano Page)
-  - Image
-  - Testimonial
-- Performance Coaching Lessons
-  - Excerpt Description
-  - Link (Performance Coaching Page)
-  - Image
-  - Testimonial
-- Marin Idol
-  - Excerpt Description
-  - Link (Idol Page)
-  - Image
-  - Testimonial
-- Latest Blog Post
-- Newsletter Signup Form
-- Contact Information -->
+    <!-- MAP
+    - Signup for a Free Lesson Now [include]
+    - Tagline
+    - Hero Image
+    - Lead Paragraph
+    - Free Intro Lesson
+    - Voice Lessons
+      - Excerpt Description
+      - Link (Voice Page)
+      - Image
+      - Testimonial
+    - Piano Lessons
+      - Excerpt Description
+      - Link (Piano Page)
+      - Image
+      - Testimonial
+    - Performance Coaching Lessons
+      - Excerpt Description
+      - Link (Performance Coaching Page)
+      - Image
+      - Testimonial
+    - Marin Idol
+      - Excerpt Description
+      - Link (Idol Page)
+      - Image
+      - Testimonial
+    - Latest Blog Post
+    - Newsletter Signup Form
+    - Contact Information -->
 
 ##Tagline
 
-Music is _**Magic**_
+Music is the universal language and I _know_ you've got something to say!
 
-<!-- - **Find/Discover** your personal style and natural voice
-- **Reveal/Unleash** your personal style and natural voice
-- **Free** your personal style and natural voice
-- Music is Magic
-- YOU can make amazing music
-- You are musical, let me show you how
-- Music is natural
-- Unlock YOUR
-- Express yourself yo!
-- Express yourself in music!
-- Expand, grow and surprise yourself!
-- Music for everyone
-- Everyone can make music
-- Everyone can make amazing music
-- Discover your musical self
-- Musical Skills for life
-- Find your personal style
-- You can actually have fun making music!
-- Music **can** be fun
-- Music lessons without the baggage.
--->
+<!-- ALT TAGLINE Music is the universal language and everybody's got something to say! -->
+
+    <!--
+    OTHER POSSIBLE TAGLINES
+    - Music is deeper than language...
+    - Music is _**Magic**_
+    - The Magic of Music
+    - The Power of Music
+    - **Find/Discover** your personal style and natural voice
+    - **Reveal/Unleash** your personal style and natural voice
+    - **Free** your personal style and natural voice
+    - Music is Magic
+    - YOU can make amazing music
+    - You are musical, let me show you how
+    - Music is natural
+    - Unlock YOUR
+    - Express yourself yo!
+    - Express yourself in music!
+    - Expand, grow and surprise yourself!
+    - Music for everyone
+    - Everyone can make music
+    - Everyone can make amazing music
+    - Discover your musical self
+    - Musical Skills for life
+    - Find your personal style
+    - You can actually have fun making music!
+    - Music **can** be fun
+    - Music lessons without the baggage.
+    -->
 
 
 ##Lead Paragraph
@@ -73,15 +81,15 @@ Music is _**Magic**_
 
 ---
 
+Welcome to Chaiken Music
+
 ## Why Music?
 
 Hans Christian Andersen could not have said it better when he penned these famous words:
 
 > Where words fail...**music speaks**
 
-Music is healing and transformative. It has the power to dissolve boundaries and bring people together from every corner of the world.
-
-They call it the universal language for a good reason and despite what you might think **it lives within us all**!
+Music is healing and transformative. It has the power to dissolve boundaries and bring people together from every corner of the world. They call it the universal language for a good reason and despite what you might think **it lives within us all**!
 
 ## Why You?
 
@@ -119,7 +127,8 @@ They call it the universal language for a good reason and despite what you might
 
 ## Piano Lessons
 
-- Excerpt Description
+Learn to speak through your fingers with Piano Lessons in the heart of Mill Valley.
+
 - Link
 - Image
 
@@ -131,13 +140,15 @@ Creative expression is something we all need and Caylia Chaiken is a master of h
 
 ## Performance Coaching
 
-- Excerpt Description
+- Overcome anything with
 - Link
 - Image
 
 ## Marin Idol
 
-- Excerpt Description
+Become the Bay Area's next Kelly Clarkson at Marin County's best performance camp.
+
+<!-- Feel like an American Idol and shine under the spotlight. -->
 - Link
 - Image
 
@@ -160,7 +171,7 @@ Because I deeply believe in the power of music.  I believe that music brings peo
 <!---
 The Caylia Chaiken Music Studio has a warm approach to teaching that is engaging and makes learning easy. Caylia shares her passion for music and helps guide her students in finding their own music inside themselves, giving them musical skills for life. Caylia uses a variety of piano teaching techniques, facilitating a learning experience from a diverse repertoire of popular, blues, and classical songs. From their first lesson, students will be able to sit down at the piano and play. Caylia’s voice coaching develops and opens the singer’s natural voice, as well as nurturing each student’s personal style.
 
-Caylia Chaiken is a California State credentialed music teacher with a Bachelor of Arts in Music and a Masters in Education. She has taught general music and choral singing in both private and public schools, and has directed many musical theatre programs in the North Bay Area. In her studio, she teaches piano, singing, performance technique and songwriting.  Her varied teaching techniques help guide her students in discovering their own expressions and creativity through music.
+
 
 Caylia Chaiken is an accomplished professional pianist, singer, and songwriter who loves sharing the joys of learning music with her students of any age.
 

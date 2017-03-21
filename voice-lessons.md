@@ -1,6 +1,7 @@
 ---
 ### real front matter ###
 meta_description: The Description
+excerpt: Open up and say La!
 
 ### context ###
 #targeted_keyphrases:
@@ -24,9 +25,18 @@ meta_description: The Description
 
 ---
 
+Open up and say La!
+
+Believe it or not, your voice is the most powerful emotional communication tool that you possess.
+
+one of the most divepowerful communications medium
+
+
+
+
 ##Testimonial 1
 
-I came to Caylia after years of vocal training. She is  a dream. With her guidance I was able to retrain my voice so that I sang in an organic way, allowing my body to simply click into place. I am thrilled to be learning from her. - Emily , Kentfield
+I came to Caylia after years of vocal training. She is a dream. With her guidance I was able to retrain my voice so that I sang in an organic way, allowing my body to simply click into place. I am thrilled to be learning from her. - Emily , Kentfield
 
 ##The Nitty Gritty..
 
@@ -34,7 +44,7 @@ I came to Caylia after years of vocal training. She is  a dream. With her guidan
 
 That your voice box (a.k.a larynx) is not just used for making sweet sounds. It's main purpose is to protect your lungs from receiving food and water!
 
-Everytime you swallow the folds (or chords) of your voice box tightly close into a locked valve to protect the airway from everything but air.
+Every time you swallow the folds (or chords) of your voice box tightly close into a locked valve to protect the airway from everything but air.
 
 When you sing you are slowly....blah
 

@@ -10,8 +10,9 @@ meta_description: Contact Chaiken Music | Phone: 415 383 5395 | 775 E. Blithedal
 ---
 ##Checklist
 
-- [ ] Copy Approved
+- [ ] Intro Paragraph
 - [ ] Meta Description
+- [x] Schema Details
 - [ ] Formspree
 - [ ] Form Microcopy
 
@@ -19,7 +20,7 @@ meta_description: Contact Chaiken Music | Phone: 415 383 5395 | 775 E. Blithedal
 
 ##Image Here
 
-Get a taste of my teachings with a [free introductory music lesson](#).
+<!-- Get a taste of my teachings with a [free introductory music lesson](#). -->
 
 <!---
 Do you have any questions? A human way to relate....

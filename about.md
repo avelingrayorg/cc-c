@@ -57,14 +57,13 @@ I wouldn't be able to bring so much passion to teaching without the nourishment 
 
 I am a professional pianist, singer and songwriter and have performed across the USA. You can listen to my work in [the store](#) and on my [YouTube channel](#). If you want to see me perform be sure to [follow me on Facebook](#) for the latest event news.
 
-##So... How about it?
-##Ready to dive in?
-##Ready to give it a try?
-Then why not have a dabble and try a [free lesson](#). What have you got to lose?
+##Try a free lesson. What have you got to lose?
 
-If you're feeling shy right now that's AOK. Why not [get in touch ](#)  and I'll be sure to answer any other questions you might have.
+Why not have a dabble. Get your toes wet and let's make a splash!
 
-{contact form?}
+{free lesson form}
+
+If you're feeling shy right now that's AOK. Why not [get in touch ](#) and I'll be sure to answer any questions you might have.
 
 ---
 ---

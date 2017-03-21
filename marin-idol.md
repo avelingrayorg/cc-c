@@ -30,11 +30,15 @@ _Spring & Summer musical performance camps for Bay Area school students._
 
 Wanna feel like an American Idol and shine under the spotlight?
 
-Do you really want to [Let it go](https://www.youtube.com/watch?v=L0MK7qz13bU) but don't know how? The Marin Idol summer music camp can show you how!
+What if you could become the Bay Area's next [Kelly Clarkson](https://www.youtube.com/watch?v=5AgzCNwqfuY) or [Trent Harmon](https://www.youtube.com/watch?v=lACsqSyuA6U)?
 
-There's nothing cooler than the thrill of performing your favorite songs on stage. What if you could become the Bay Area's next [Kelly Clarkson](https://www.youtube.com/watch?v=5AgzCNwqfuY) or [Trent Harmon](https://www.youtube.com/watch?v=lACsqSyuA6U)?
+The Marin Idol summer music camp can show you how!
 
-The Marin Idol summer camp is a music and performance experience of a lifetime.
+There's nothing cooler than the thrill of performing your favorite songs on stage. The Marin Idol summer camp is a music and performance experience of a lifetime.
+
+
+<!-- Do you really want to [Let it go](https://www.youtube.com/watch?v=L0MK7qz13bU) but don't know how?  -->
+
 
 - Have fun learning to ace your auditions and overcome your fears!
 
