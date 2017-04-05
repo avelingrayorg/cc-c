@@ -3,40 +3,9 @@
 meta_description: The Description
 
 ### context ###
-#targeted_keyphrases: Mill Vallay, Music Lessons
-#user_needs:
-#business_needs:
----
+#targeted_keyphrases: Mill Valley, Music Lessons
 
-    <!-- MAP
-    - Signup for a Free Lesson Now [include]
-    - Tagline
-    - Hero Image
-    - Lead Paragraph
-    - Free Intro Lesson
-    - Voice Lessons
-      - Excerpt Description
-      - Link (Voice Page)
-      - Image
-      - Testimonial
-    - Piano Lessons
-      - Excerpt Description
-      - Link (Piano Page)
-      - Image
-      - Testimonial
-    - Performance Coaching Lessons
-      - Excerpt Description
-      - Link (Performance Coaching Page)
-      - Image
-      - Testimonial
-    - Marin Idol
-      - Excerpt Description
-      - Link (Idol Page)
-      - Image
-      - Testimonial
-    - Latest Blog Post
-    - Newsletter Signup Form
-    - Contact Information -->
+---
 
 ##Tagline
 
@@ -44,44 +13,25 @@ Music is the universal language and I _know_ you've got something to say!
 
 <!-- ALT TAGLINE Music is the universal language and everybody's got something to say! -->
 
-    <!--
-    OTHER POSSIBLE TAGLINES
-    - Music is deeper than language...
-    - Music is _**Magic**_
-    - The Magic of Music
-    - The Power of Music
-    - **Find/Discover** your personal style and natural voice
-    - **Reveal/Unleash** your personal style and natural voice
-    - **Free** your personal style and natural voice
-    - Music is Magic
-    - YOU can make amazing music
-    - You are musical, let me show you how
-    - Music is natural
-    - Unlock YOUR
-    - Express yourself yo!
-    - Express yourself in music!
-    - Expand, grow and surprise yourself!
-    - Music for everyone
-    - Everyone can make music
-    - Everyone can make amazing music
-    - Discover your musical self
-    - Musical Skills for life
-    - Find your personal style
-    - You can actually have fun making music!
-    - Music **can** be fun
-    - Music lessons without the baggage.
-    -->
+<!-- ORIGINAL TAGLINE Find the music inside yourself -->
 
+##Mill Valley Music Lessons
 
-##Lead Paragraph
+Curious to explore the world of music but don't know how or where to begin?
 
-1. Human connector
-2. Locational hook w Keywords
-3. Segue to Lesson excerpts
+Got musical training but need to take your chops to the next level?
 
----
+I will help you discover and develop your inner talent with custom tailored music lessons in [Singing](#), [Piano](#) and [Performance](#).
 
-Welcome to Chaiken Music
+I've been living and breathing music education in Mill Valley for over 15 years and love to teach students of all ages.
+
+### Musical hangups from the past?
+
+The truth is that if you've ever been bored by music lessons then you've had the wrong teacher.
+
+I will fix that!
+
+When you study with me learning and performing music is always **fun** and **engaging**. My lessons come from a place of compassion and I'm hip to teach you any genre that floats your boat. From Beyoncé to Beethoven, it's all music and therefore it's all magic.
 
 ## Why Music?
 
@@ -91,7 +41,16 @@ Hans Christian Andersen could not have said it better when he penned these famou
 
 Music is healing and transformative. It has the power to dissolve boundaries and bring people together from every corner of the world. They call it the universal language for a good reason and despite what you might think **it lives within us all**!
 
-## Why You?
+## Why me?
+
+I am not your boring, run of the mill cookie cutter teacher. I know that when it comes to music a one size fits all approach will not do.
+
+
+Fun and compassion lie at the heart of my teachings and I totally get that one size
+
+Because I will bring out your
+
+ I know that you have a unique unique to offer and have the skills and experience to
 
 ---
 
@@ -121,7 +80,8 @@ Music is healing and transformative. It has the power to dissolve boundaries and
 
 ## Voice Lessons
 
-- Excerpt Description
+Open up and say "La!" with singing lessons that are tailored to your unique style.
+
 - Link
 - Image
 
@@ -136,22 +96,19 @@ Learn to speak through your fingers with Piano Lessons in the heart of Mill Vall
 
 Creative expression is something we all need and Caylia Chaiken is a master of her art. Her music lessons provide not only the spark but the instruction to enhance your experience and enjoyment of music. Sign up now. You won't be sorry. - Sharon G
 
-<!-- [ALT TESTIMONIAL] Caylia's heart is in her music and with her students. Our daughter has her voice because of Caylia! -->
-
 ## Performance Coaching
 
-- Overcome anything with
+- Learn how to conquer your overcome _**anything**_ with
+- Learn to overcome performance anxiety of all kinds with jedi mind tricks that work.
 - Link
 - Image
 
 ## Marin Idol
 
-Become the Bay Area's next Kelly Clarkson at Marin County's best performance camp.
+Become the Bay Area's next Kelly Clarkson at Marin County's best school performance camp.
 
-<!-- Feel like an American Idol and shine under the spotlight. -->
 - Link
 - Image
-
 
 <!---
 
