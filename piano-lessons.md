@@ -78,6 +78,16 @@ I am so thankful that we were referred to Caylia for our music instruction. - Ja
 ## Can I learn the latest XXXX Song?
 Absolutely... blah blah
 
+
+## A Free Piano Playing Tip
+
+Here is a game to help achieve a [rounded hand position](http://gillespiemusic.com/piano-hand-posture-to-curve-or-not-to-curve/) on the piano keys.
+
+1. Pretend your hand is a crab and "walk" it on a table.
+2. Have a friend attempt to "walk" across to your side of the table with their "crab hand".
+3. Have your crab guard it's side of the table from your friends crab. The more you play, the better your rounded piano hand position will become. It's fun!
+
+
 <!---
 PIANO STUDENTS
 My piano students are imaginative, creative, musical. They’re individualistic thinkers. They define their own style and like to be current with Popular Music. They’re self motivated and they understand social nuances and cues in a more mature way.

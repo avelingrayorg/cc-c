@@ -40,6 +40,10 @@ I came to Caylia after years of vocal training. She is a dream. With her guidanc
 
 ##The Nitty Gritty..
 
+## A Free voice Training Tip
+
+When you're having difficulty reaching a note or finding the right placement [blow a sustained raspberry](https://www.youtube.com/watch?v=bPYvluJlwHA) while humming the note. This immediately helps you find your placement so the note can be sung out with ease!
+
 ##Did you know...
 
 That your voice box (a.k.a larynx) is not just used for making sweet sounds. It's main purpose is to protect your lungs from receiving food and water!
@@ -47,6 +51,8 @@ That your voice box (a.k.a larynx) is not just used for making sweet sounds. It'
 Every time you swallow the folds (or chords) of your voice box tightly close into a locked valve to protect the airway from everything but air.
 
 When you sing you are slowly....blah
+
+
 
 
 > The most important thing your larynx does is . . .
